@@ -14,7 +14,7 @@
     <a href="https://github.com/emirhansapmaz">
       <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-0ea5e9?style=for-the-badge&logo=target&logoColor=white" alt="Status" />
     </a>
-    <a href="https://linkedin.com/in/emirhansapmaz">
+    <a href="https://www.linkedin.com/in/emirhan-sapmaz-8704153a9/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:emirsapmaz989@gmail.com">
@@ -186,7 +186,7 @@
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/emirhansapmaz" target="_blank">
+  <a href="https://www.linkedin.com/in/emirhan-sapmaz-8704153a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
