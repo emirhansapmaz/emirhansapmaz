@@ -2,7 +2,7 @@
 
   <!-- Header Banner / Typing SVG -->
   <a href="https://github.com/emirhansapmaz">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=70&lines=Hi%2C+I'm+Emirhan+Sapmaz+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93;Backend-Focused+Full+Stack+Developer+%E2%9A%A1;ASP.NET+Core+%7C+PostgreSQL+%7C+Clean+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=70&lines=Hi%2C+I'm+Emirhan+Sapmaz+%F0%9F%91%8B;Software+Engineering+Student+%F0%9F%8E%93" alt="Typing SVG" />
   </a>
 
   <p align="center">
