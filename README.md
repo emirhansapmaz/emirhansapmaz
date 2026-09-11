@@ -32,7 +32,7 @@
 > *"I am a Software Engineering student who is actively building production-style Full Stack applications. My primary focus is backend development with ASP.NET Core and PostgreSQL."*
 
 - 🎓 **Education:** Pursuing a Bachelor's Degree in **Software Engineering**, dedicated to computer science fundamentals and disciplined engineering practices.
-- ⚡ **Backend Craftsmanship:** Specializing in **C#**, **.NET 8 / ASP.NET Core**, building resilient, secure, and decoupled RESTful APIs.
+- ⚡ **Backend Craftsmanship:** Specializing in **C#**, **.NET 10 / ASP.NET Core**, building resilient, secure, and decoupled RESTful APIs.
 - 🏛️ **Architecture & Quality:** Actively applying **Clean Architecture**, **SOLID principles**, Repository & Unit of Work patterns, and domain-driven design concepts.
 - 🌐 **Full-Stack Vision:** Expanding frontend skills with **React**, **TypeScript**, and **Tailwind CSS** to build cohesive end-to-end user experiences.
 - 📈 **Continuous Evolution:** Always learning, refining code quality, benchmarking performance, and exploring cloud-native architectures.
@@ -56,7 +56,7 @@
 #### ⚙️ Backend Skills & Core Technologies
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
+  <img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="EF Core" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
@@ -116,60 +116,10 @@
 
 ---
 
-### 💼 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🛒 Production-Style E-Commerce REST API</h4>
-      <p>A modular enterprise-ready API engineered with <strong>ASP.NET Core</strong> and <strong>PostgreSQL</strong> under <strong>Clean Architecture</strong> principles. Features JWT token authentication, role-based authorization, comprehensive validation, and the Repository pattern.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/emirhansapmaz"><strong>View Repository »</strong></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">📊 Full-Stack Application Dashboard</h4>
-      <p>An end-to-end full-stack web application connecting an <strong>ASP.NET Core Web API</strong> with a modern <strong>React & TypeScript</strong> frontend. Features real-time state management, secure endpoints, and an intuitive UI styled with Tailwind CSS.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/emirhansapmaz"><strong>View Repository »</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity & Statistics
+### 🔥 GitHub Streak
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=emirhansapmaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Emirhan's GitHub Stats" height="175" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emirhansapmaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="175" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
   <img src="https://streak-stats.demolab.com/?user=emirhansapmaz&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-
-  <br /><br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhansapmaz&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
